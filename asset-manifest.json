@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Crypto_world/static/css/main.2e9d29e2.chunk.css",
-    "main.js": "/Crypto_world/static/js/main.0e968b00.chunk.js",
-    "main.js.map": "/Crypto_world/static/js/main.0e968b00.chunk.js.map",
+    "main.js": "/Crypto_world/static/js/main.a0dc5124.chunk.js",
+    "main.js.map": "/Crypto_world/static/js/main.a0dc5124.chunk.js.map",
     "runtime-main.js": "/Crypto_world/static/js/runtime-main.393c4696.js",
     "runtime-main.js.map": "/Crypto_world/static/js/runtime-main.393c4696.js.map",
     "static/js/2.b8379a9c.chunk.js": "/Crypto_world/static/js/2.b8379a9c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.393c4696.js",
     "static/js/2.b8379a9c.chunk.js",
     "static/css/main.2e9d29e2.chunk.css",
-    "static/js/main.0e968b00.chunk.js"
+    "static/js/main.a0dc5124.chunk.js"
   ]
 }
