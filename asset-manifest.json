@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto_world/static/css/main.2e9d29e2.chunk.css",
+    "main.js": "/Crypto_world/static/js/main.0e968b00.chunk.js",
+    "main.js.map": "/Crypto_world/static/js/main.0e968b00.chunk.js.map",
+    "runtime-main.js": "/Crypto_world/static/js/runtime-main.393c4696.js",
+    "runtime-main.js.map": "/Crypto_world/static/js/runtime-main.393c4696.js.map",
+    "static/js/2.b8379a9c.chunk.js": "/Crypto_world/static/js/2.b8379a9c.chunk.js",
+    "static/js/2.b8379a9c.chunk.js.map": "/Crypto_world/static/js/2.b8379a9c.chunk.js.map",
+    "index.html": "/Crypto_world/index.html",
+    "static/css/main.2e9d29e2.chunk.css.map": "/Crypto_world/static/css/main.2e9d29e2.chunk.css.map",
+    "static/js/2.b8379a9c.chunk.js.LICENSE.txt": "/Crypto_world/static/js/2.b8379a9c.chunk.js.LICENSE.txt",
+    "static/media/planet-2.114cdca2.svg": "/Crypto_world/static/media/planet-2.114cdca2.svg",
+    "static/media/planet-3.ed08a7ab.svg": "/Crypto_world/static/media/planet-3.ed08a7ab.svg",
+    "static/media/planet.aec32de6.svg": "/Crypto_world/static/media/planet.aec32de6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.393c4696.js",
+    "static/js/2.b8379a9c.chunk.js",
+    "static/css/main.2e9d29e2.chunk.css",
+    "static/js/main.0e968b00.chunk.js"
+  ]
+}
