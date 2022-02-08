@@ -9,6 +9,6 @@ https://ujjwal5520.github.io/Crypto_world/
 ![Scrrenshot](ss_1.jpg)
  
 # Working
-![Scrrenshot](gif_1.jpg)
+![Scrrenshot](gif_1.gif)
 
 
